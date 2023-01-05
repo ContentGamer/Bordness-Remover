@@ -31,7 +31,7 @@ function App() {
     <div className="App">
         <br></br>
         <br></br>
-        <h2>Hi, Im an AI That helps you remove bordoom!</h2>
+        <h2>Hi, Im an AI That helps you remove Boredom!</h2>
         <br></br>
         <br></br>
         <button id="rm" className='btn btn-info'>Remove bordoom</button>
