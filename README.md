@@ -1,6 +1,6 @@
-# Bordness Remover
+# Boredom Remover
 
-this is a bordness remover website created with Reactjs Using this [API]("https://www.boredapi.com")
+this is a Boredom remover website created with Reactjs Using this [API]("https://www.boredapi.com")
 
 # Getting Started (Setup)
 
